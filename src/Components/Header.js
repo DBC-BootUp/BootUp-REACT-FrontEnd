@@ -10,9 +10,9 @@ class Header extends Component {
           <li><Link to="/interviews"><img className="logo" src={BootUpLogo2} /></Link></li>
           <ul id="links">
             <li><Link to={`/users/${this.props.current_user.id}`}>{`${this.props.current_user.name}`}</Link></li>
-            <li><Link to="/search">SearchBox</Link></li>
-            <li><Link to="/companies">Companies</Link></li>
             <li><Link to="/">Resources</Link></li>
+            <li><Link to="/companies">Companies</Link></li>
+            <li><Link to="/search">SearchBox</Link></li>
           </ul>
         </nav>
       </div>
