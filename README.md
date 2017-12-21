@@ -2,7 +2,7 @@
 
 ### BootUp [API](https://github.com/DBC-BootUp/BootUp-API/)
 
-![InterviewReviews](/public/mockups/bootUp_mockUp_interviewReviews.png = 100x150 "InterviewReviews")
+![InterviewReviews](/public/mockups/bootUp_mockUp_interviewReviews.png =100x150 "InterviewReviews")
 
 ![InterviewReview](/public/mockups/bootUp_mockUp_interviewReview.png "InterviewReview")
 
