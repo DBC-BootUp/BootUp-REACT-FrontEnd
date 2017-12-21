@@ -1,5 +1,9 @@
 # BootUp-REACT-FrontEnd
 
+### BootUp [API](https://github.com/DBC-BootUp/BootUp-API/)
+
+![Alt text](/public/mockups/bootUp_mockUp_profile.jpg "User Profile")
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
