@@ -4,8 +4,7 @@
 
 ![UserProfile](/public/mockups/bootUp_mockUp_profile.jpg "UserProfile")
 
-![UserProfile][id]
-[id]: https://github.com/DBC-BootUp/BootUp-REACT-FrontEnd/blob/styling/public/mockups/bootUp_mockUp_profile.png "UserProfile"
+<img src="/public/mockups/bootUp_mockUp_profile.jpg "UserProfile">
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
