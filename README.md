@@ -2,7 +2,10 @@
 
 ### BootUp [API](https://github.com/DBC-BootUp/BootUp-API/)
 
-![Alt text](/public/mockups/bootUp_mockUp_profile.jpg "User Profile")
+![UserProfile](/public/mockups/bootUp_mockUp_profile.jpg "UserProfile")
+
+![UserProfile][id]
+[id]: https://github.com/DBC-BootUp/BootUp-REACT-FrontEnd/blob/styling/public/mockups/bootUp_mockUp_profile.png "UserProfile"
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
