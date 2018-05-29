@@ -1,7 +1,6 @@
 <img src="https://github.com/DBC-BootUp/BootUp-API/blob/development/BootUpLogo2.png" width="250" />
 
 [Live Presentation](https://goo.gl/m2ATPc)
-[Video Lorraine walkthrough search function](https://www.youtube.com/watch?v=IwfYI6pLuoM)
 
 ## BootUp-REACT-FrontEnd
 
